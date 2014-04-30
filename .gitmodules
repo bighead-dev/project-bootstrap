@@ -1,0 +1,9 @@
+[submodule "krak-orm"]
+	path = krak-orm
+	url = git@github.com:bighead-dev/krak-orm.git
+[submodule "api-kernel"]
+	path = api-kernel
+	url = git@github.com:bighead-dev/api-kernel.git
+[submodule "api-lib"]
+	path = api-lib
+	url = git@github.com:bighead-dev/api-lib.git
